@@ -22,7 +22,7 @@
 
 ```sh
  git clone https://github.com/fawadss1/Car-Spare-Parts-Inventory-API.git
- cd car-spare-parts-api
+ cd Car-Spare-Parts-Inventory-API
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -66,7 +66,7 @@ Use query parameters to filter spare parts:
 Example:
 
 ```sh
-GET http://127.0.0.1:8000/api/spare-parts/?model=Toyota&min_price=50&max_price=200
+http://127.0.0.1:8000/api/spare-parts/?model=Toyota&min_price=50&max_price=200
 ```
 
 ### Example Postman Testing
