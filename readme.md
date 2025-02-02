@@ -21,7 +21,7 @@
 ### 1. Clone the Repository
 
 ```sh
- git clone https://github.com/fawadss1/car-spare-parts-api.git
+ git clone https://github.com/fawadss1/Car-Spare-Parts-Inventory-API.git
  cd car-spare-parts-api
 ```
 
